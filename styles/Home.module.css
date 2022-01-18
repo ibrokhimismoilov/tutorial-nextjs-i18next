@@ -28,11 +28,15 @@
   flex-grow: 1;
 }
 
+.link,
 .title a {
   color: #0070f3;
   text-decoration: none;
 }
 
+.link:hover,
+.link:focus,
+.link:active,
 .title a:hover,
 .title a:focus,
 .title a:active {
