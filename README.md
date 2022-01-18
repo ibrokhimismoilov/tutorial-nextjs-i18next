@@ -8,6 +8,6 @@ npm run dev
 yarn dev
 ```
 
-**libraris: next-translation**
+**libraris: next-translate**
 
 ##### Ibrokhim Ismoilov
